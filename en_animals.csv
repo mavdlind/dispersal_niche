@@ -1,0 +1,82 @@
+Period,Latitude,Longitude,Country,Zone,Culture,Bioregion,Type,Site,bostaur,susscrd,oviscap
+1,44.2,15.3,Croatia,Coast,Impresso,Mediterranean,open,Crno Vrilo,121,6,3379
+1,39.6665,16.45203,Italy,Coast,Impresso,Mediterranean,open,Favella,47,20,177
+2,41.95183,13.5561,Italy,Coast,Impresso,Continental,cave,Grotta Continenza,14,94,176
+2,42.21733,13.96019,Italy,Coast,Impresso,Continental,cave,Grotta dei Piccioni,21,37,98
+2,41.626,15.909,Italy,Coast,Impresso,Mediterranean,cave,Grotta Scaloria,83,84,1535
+1,44.826,13.984,Croatia,Coast,Impresso,Mediterranean,open,Kargadur,2,10,629
+1,41.46,15.55,Italy,Coast,Impresso,Mediterranean,open,Lagnano,55,19,90
+2,40.08753,16.00777,Italy,Coast,Impresso,Mediterranean,cave,"Latronica, Grotta 3",56,582,290
+2,43.07591,13.06171,Italy,Coast,Impresso,Continental,open,Maddalena di Muccia,64,189,153
+2,41.561,15.74341,Italy,Coast,Impresso,Mediterranean,open,Masseria Candelaro,30,23,51
+2,41.65239,15.94528,Italy,Coast,Impresso,Mediterranean,open,Masseria Valente,22,36,174
+2,41.80849,14.9178,Italy,Coast,Impresso,Mediterranean,open,Monte Maulo,95,17,12
+2,41.9,13,Italy,Coast,Impresso,Mediterranean,cave,Mora Cavorso Cave,1,0,192
+1,44.24,15.19,Croatia,Coast,Impresso,Mediterranean,open,Nin,8,10,347
+2,41.54867,15.61089,Italy,Coast,Impresso,Mediterranean,open,Passo di Corvo,1119,268,1494
+1,40.99324,15.65741,Italy,Coast,Impresso,Mediterranean,open,Rendina,792,811,2769
+1,40.99324,15.65741,Italy,Coast,Impresso,Mediterranean,open,Rendina 3 I+II+III,89,53,149
+1,41.51475,15.31563,Italy,Coast,Impresso,Mediterranean,open,Ripa Tetta,36,13,92
+2,43.70759,13.08952,Italy,Coast,Impresso,Continental,open,Ripabianca di Monterado,72,109,503
+2,43.32455,12.61402,Italy,Coast,Impresso,Continental,open,"San Marco, Gubbio",155,95,193
+2,40.73022,17.57057,Italy,Coast,Impresso,Mediterranean,cave,Santa Maria d'Agnano,17.5,8,47
+2,41.62199,15.90099,Italy,Coast,Impresso,Mediterranean,open,Santa Tecchia,139,47,185
+2,41.94411,13.64227,Italy,Coast,Impresso,Mediterranean,open,Santo Stafano di Ortucchio,20,36,138
+1,41.08323,16.9986,Italy,Coast,Impresso,Mediterranean,open,Scamuso,22,112,240
+1,42.492643,18.711659,Montenegro,Coast,Impresso,Mediterranean,cave,Spila I+II,120,8,765
+1,42.99,17.05,Croatia,Coast,Impresso,Mediterranean,cave,Spila Nakovana,16,13,252
+1,44.03,15.44,Croatia,Coast,Impresso,Mediterranean,open,Tinj-Podlivade,157,48,2933
+1,40.07466,18.00917,Italy,Coast,Impresso,Mediterranean,open,Torre Sabea,207,49,471
+1,40.669,16.602,Italy,Coast,Impresso,Mediterranean,open,Trasano I+II+III,997,561,2082
+2,40.669,16.602,Italy,Coast,Impresso,Mediterranean,open,Trasano IV,281,116,1003
+1,44.67,14.35,Croatia,Coast,Impresso,Mediterranean,cave,Vela _pilja / jama (Lo_inj),0,1,345
+2,42.45728,14.26,Italy,Coast,Impresso,Continental,open,Villaggio Leopardi,18,66,68
+1,42.96,16.71,Croatia,Coast,Impresso,Mediterranean,cave,VSK 2004 II+III,0,2,171
+1,43.58,16.65,Croatia,Coast,Impresso,Mediterranean,cave,Zemunica,34,24,180
+1,46.197,18.733,Hungary,Inland,SKC,Pannonia,open,Als�ny�k-B�tasz�k,124,17,81
+1,41.812,21.995,Macedonia,Inland,SKC,Continental,open,Anzabegovo II+III,190,189,1538
+1,45.68,18.42,Croatia,Inland,SKC,Pannonia,open,Belisce,366,33,43
+1,43.72,21.1,Serbia,Inland,SKC,Continental,open,Blagotin,2684,115,5170
+1,44,21.15,Serbia,Inland,SKC,Continental,open,Bukova_ka _esma,74,25,20
+1,41.3196,21.9984,Macedonia,Inland,SKC,Continental,open,Cakovec  Resava,233,79,353
+1,45.79,24.01,Romania,Inland,SKC,Continental,open,Christian I,496,0,35
+1,47.03,20.93,Hungary,Inland,SKC,Pannonia,open,Devav�nya-Barcei kishalom,186,1,101
+1,44.035,20.833,Serbia,Inland,SKC,Continental,open,Divostin I,11117,84,981
+1,45.462,19.175,Serbia,Inland,SKC,Pannonia,open,Donja Branjevina,404,26,1306
+1,46.053,20.469,Romania,Inland,SKC,Pannonia,open,Dude_tii Vechi I+II,776,183,414
+1,47.15,20.92,Hungary,Inland,SKC,Pannonia,open,Ecsegfalva23,552,82,3758
+1,47.91,21.83,Hungary,Inland,SKC,Pannonia,open,Endrod 119,5139,140,15357
+1,45.491,20.87,Romania,Inland,SKC,Pannonia,open,Foeni-Gaz,2601,386,3055
+1,45.529,20.875,Romania,Inland,SKC,Pannonia,open,Foeni-Salas,895,104,1015
+1,45.17,18.053,Croatia,Inland,SKC,Pannonia,open,Galovo,70,17,44
+1,45.171,19.454,Serbia,Inland,SKC,Pannonia,open,Golokut-Vizi_,260,23,126
+1,44.679303,21.856278,Romania,Inland,SKC,Continental,open,Gornea-Locurile Lungi,59,17,38
+1,46.775,23.503,Romania,Inland,SKC,Continental,open,Gura Baciului I+II+III,308,25,245
+1,46.25,20.17,Hungary,Inland,SKC,Pannonia,open,Gy�lar_t-Szilagyi major,65,10,136
+1,48.14,21.91,Hungary,Inland,SKC,Pannonia,open,Ibr�ny-Nagyerd_,17,18,8
+1,46.015,18.633,Hungary,Inland,SKC,Pannonia,open,L�nycs�k-�gettmalom,209,16,791
+1,44.553,22.029,Serbia,Inland,SKC,Continental,open,Lepenski Vir III,375,8,81
+1,43.643,18.99,Serbia,Inland,SKC,Pannonia,open,Ludo_-Bud_ak,284,8,1863
+1,46.27,20.35,Hungary,Inland,SKC,Pannonia,open,Maroslele-Pana,48,3,127
+1,45.88,23.8,Romania,Inland,SKC,Continental,open,Miercurea Sibiului-Petri_ I+II+III,500,9,262
+1,44.727345,21.624843,Romania,Inland,SKC,Continental,open,Moldova Veche-R_t,215,16,62
+1,42.162,21.862,Macedonia,Inland,SKC,Continental,open,Na Breg,205,80,1080
+1,47.28,20.42,Hungary,Inland,SKC,Pannonia,open,Nagyk_r_ Cooperative Orchard,75,15,338
+1,46.06,19.4,Serbia,Inland,SKC,Pannonia,open,Nosa-Gy_ngypart/ Biserna Obala,95,18,115
+1,44.1027,18.1353,BiH,Inland,SKC,SubAlpine,open,Obre 1,4541,55,1866
+1,45.879,24.073,Romania,Inland,SKC,Continental,open,Ocna Sibiului,172,7,87
+1,44.61,22,Serbia,Inland,SKC,Continental,open,Padina III,34,6,6
+1,45.63,21.13,Romania,Inland,SKC,Pannonia,open,Par_a-tell 2,158,61,256
+1,45.761,22.751,Romania,Inland,SKC,Continental,cave,Pe_tera Cauce I,22,75,473
+1,44.77,21.57,Romania,Inland,SKC,Continental,open,Pojejena-Nucet,131,3,21
+1,47.86,21.04,Hungary,Inland,SKC,Pannonia,open,Polg�r-10,204,44,154
+1,46.18,20.05,Hungary,Inland,SKC,Pannonia,open,R_szke-L�dv�r,153,14,631
+1,41.855,21.874,Macedonia,Inland,SKC,Continental,open,Rug Bair _ Gorobinci,97,103,473
+1,45.49,20.11,Serbia,Inland,SKC,Pannonia,open,Sajan-Dombo_,70,4,35
+1,46.041,23.634,Romania,Inland,SKC,Continental,open,Seusa-C_rarea Morii,334,77,620
+1,44.81,20.68,Serbia,Inland,SKC,Continental,open,Star_evo-Grad 1932,577,44,217
+1,47.17,20.27,Hungary,Inland,SKC,Pannonia,open,Szajol-Fels_f�ld,576,2,680
+1,46.537,19.063,Hungary,Inland,SKC,Pannonia,open,Szakm�r-Kis_l_s,54,4,94
+1,47.13,20.19,Hungary,Inland,SKC,Pannonia,open,Szolnok-Szanda,1557,93,4057
+1,47.56,20.73,Hungary,Inland,SKC,Pannonia,open,Tiszasz_l_s-Domah�za,389,37,190
+1,47.22,22.66,Romania,Inland,SKC,Pannonia,open,Z_uan,98,3,35
