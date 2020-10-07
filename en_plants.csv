@@ -1,0 +1,51 @@
+Country,Group,Phase,Bioregion,Site,barley,emmer,einkorn,free-threshing wheat,new glume wheat,lentil,pea,Lathyrus sativus,Vicia ervilia,Vicia sativa,Vicia faba,Linum usitatissimum
+BiH,Inland,EN,Alpine,Kakanj,1,1,1,1,0,0,1,0,0,0,0,0
+BiH,Inland,EN,Alpine,Obre I,0,1,1,1,0,1,1,0,0,0,0,0
+Slavonia,Inland,EN,Pannonia,Sopot,1,1,1,0,0,0,1,0,0,0,0,0
+Slavonia,Inland,EN,Pannonia,Tomašanci-Palača,1,1,1,0,0,1,0,0,0,0,0,1
+Serbia,Inland,EN,Pannonia,At,1,0,1,0,1,0,0,0,0,0,0,0
+Serbia,Inland,EN,Pannonia,Starčevo-Grad,1,1,1,1,0,0,1,0,0,0,0,0
+Serbia,Inland,EN,Continental,Mesarci,1,0,0,1,0,0,0,0,0,0,0,0
+Serbia,Inland,EN,Continental,Zablaće,1,0,0,0,0,0,0,0,0,0,0,0
+Serbia,Inland,EN,Continental,Belotiċ,1,0,0,1,0,0,0,0,0,0,0,0
+Serbia,Inland,EN,Continental,Divostin,0,1,0,0,0,0,0,0,0,0,0,0
+Serbia,Inland,EN,Continental,Blagotin,1,1,1,0,0,1,0,0,0,0,0,0
+Serbia,Inland,EN,Continental,Drenovac,0,1,1,0,0,1,1,0,0,0,0,0
+Serbia,Inland,EN,Continental,Međurec,1,1,1,0,0,0,0,0,0,0,0,0
+Serbia,Inland,EN,Pannonia,Jaričište 1- Mali Borak,1,1,0,0,0,1,0,0,1,0,0,1
+Hungary,Inland,EN,Pannonia,Ecsegfalva,1,1,1,1,1,1,0,0,0,0,0,0
+Hungary,Inland,EN,Pannonia,Battonya-Basarága,0,0,1,0,0,0,0,0,0,0,0,0
+Hungary,Inland,EN,Pannonia,Ibrány-Nagyerdő,1,0,0,1,0,1,1,0,0,0,0,0
+Hungary,Inland,EN,Pannonia,Berettyóújfalu-Nagy,1,1,1,1,0,1,1,0,0,0,0,0
+Hungary,Inland,EN,Pannonia,Tiszaszölös-Domaháza,1,1,1,1,0,1,1,0,0,1,1,0
+Hungary,Inland,EN,Pannonia,Tăşnad-Sere,1,1,0,0,0,0,0,0,0,0,0,0
+Hungary,Inland,EN,Pannonia,Foeni-Salaş,1,1,1,0,0,1,0,0,0,0,0,0
+Hungary,Inland,EN,Pannonia,Circea,1,0,1,1,0,0,1,0,0,0,0,0
+Hungary,Inland,EN,Pannonia,Măgura-Buduiasca,1,1,1,0,1,1,1,0,1,0,0,0
+FYROM,Inland,EN,Continental,Anza,1,1,1,1,0,1,1,0,0,1,0,0
+FYROM,Inland,EN,Continental,Vršnik,1,1,1,1,0,0,0,0,0,0,0,0
+East Adriatic,Coast,EN,Mediterranean,Crno Vrilo,1,1,1,0,0,0,0,0,0,0,0,0
+East Adriatic,Coast,EN,Mediterranean,Pokrovnic,1,1,1,0,0,1,0,1,0,0,0,1
+East Adriatic,Coast,EN,Mediterranean,Tinj-Podlivade,1,0,0,1,0,0,0,0,0,0,0,0
+East Adriatic,Coast,EN,Mediterranean,Kargadur-Ližnjan,1,1,1,1,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Continental,Valler,1,1,1,0,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Scamuso,1,1,1,1,0,1,1,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Torre Canne,1,1,1,0,0,1,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Coppa Nevigata,1,1,1,1,0,1,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Masseria Valente,0,1,0,0,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Rippa Tetta,1,1,1,1,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Torre Sabea,1,1,1,1,0,0,0,0,0,0,1,0
+West Adriatic,Coast,EN,Mediterranean,Rendina,1,1,1,1,0,1,0,0,0,0,1,0
+West Adriatic,Coast,EN,Mediterranean,Sito 3 Lago di Rendina,1,1,1,1,0,1,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Foggia ex-Ippodromo,1,1,1,1,0,1,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Monte Calvello,1,1,1,1,0,1,0,0,1,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Monte San Vincenzo,1,1,1,1,0,1,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Titolo,1,1,0,0,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Lagnano da Piede,1,1,0,0,0,1,1,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Villa Comunale di Foggia,1,1,1,0,0,0,1,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Canosa,1,1,1,1,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Grotta della Mura,1,1,0,0,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Pulo di Molfetta,1,1,1,0,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Defensola A,1,1,0,0,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Masseria Candelaro,1,1,0,0,0,0,0,0,0,0,0,0
+West Adriatic,Coast,EN,Mediterranean,Terragne,1,1,1,1,0,0,0,0,0,0,0,0
